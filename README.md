@@ -26,9 +26,12 @@
 
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=diksha987&show_icons=true&locale=en&layout=compact" alt="diksha987" /></p>
 <p>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+  <br/>
+<br/>
+  <br/>
+<br/>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diksha987&show_icons=true&locale=en" alt="diksha987" /></p>
 <br>
