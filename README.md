@@ -33,6 +33,8 @@
   <br/>
 <br/>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diksha987&show_icons=true&locale=en" alt="diksha987" /></p>
+
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha987&" alt="diksha987" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diksha987&show_icons=true&locale=en" alt="diksha987" /></p>
